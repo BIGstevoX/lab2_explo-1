@@ -1,2 +1,1 @@
-# lab2_explo
-Laboratoire #2
+Ceci est le laboratoire #2 du cours Exploration
